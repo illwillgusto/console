@@ -8,3 +8,4 @@ console.table({name: 'Will', email: 'will@gmail.com'});
 
 console.group('simple');
 
+console.log('Hello World!');
